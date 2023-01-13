@@ -4,7 +4,7 @@
 
 ## Contents
 
-- Week 0 (1/12)
+- Week 0 (1/12) [[Lecture]](./1%20-%20Lecture/230112%20-%20Rust%20Basic%20%2B%20System%20Programming%2C%20Week%200.pdf)
   - Introduction
 - Week 1 (1/19)
   - A Tour of Rust, Part 1
